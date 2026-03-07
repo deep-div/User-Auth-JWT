@@ -1,4 +1,5 @@
 ﻿# JWT Auth Service (FastAPI)
+<img width="1859" height="808" alt="image" src="https://github.com/user-attachments/assets/b8ce8a3b-30b0-476e-9a3d-202abdbd1abc" />
 
 A simple JWT-based authentication API built with FastAPI, SQLAlchemy, and PostgreSQL.
 
